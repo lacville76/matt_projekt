@@ -73,3 +73,15 @@
   });
 
 })(jQuery); // End of use strict
+
+function initMap() {
+  var turek = {lat: 52.004956, lng: 18.516763};
+  var map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 16,
+    center: turek
+  });
+  var marker = new google.maps.Marker({
+    position: turek,
+    map: map
+  });
+}
