@@ -1,0 +1,39 @@
+  <div class="col-lg-6 mx-auto">
+            <ul class="service-list">
+              <li>Odbudowa korony zęba   - 150 zł</li>
+              <li>Wybielanie nakładkowe - 500 zł</li>
+              <li>Skaling i piaskowanie - 150 zł</li>
+              <li>Leczenie zębów mlecznych - 70 zł </li>
+              <li>Dewitalizacja - 50 zł</li>
+              <li>Inley, onley - 700 zł</li>
+              <li>Endokorona - 700 zl</li>
+              <li>Włókno szklane - 150 zł</li>
+              <li>Proteza akrylowa - 600- 700 zł</li>
+              <li>Licówki kompozytowe - 250 zł</li>
+              <li>Wypełnienie kompozytowe - 100-120zł</li>
+              <li>Wybielanie zębów (lampa) - 400-500 zł</li>
+              <li>Wybielanie nakładkowe - 500 zł</li>
+            </ul>
+          </div>
+        <div class="col-lg-6 mx-auto">
+            <ul class="service-list">
+                <li>Korona porcelanowa na metalu (Cr-Co) - 450 zł</li>
+                <li>Korona porcelanowa na tlenku cyrkonu - 1000 zł</li>
+                <li>Punkt w moście (1 ząb):</li>
+                <ul class="subservice-list">
+                    <li>Porcelana na metalu - 400 zł</li>
+                    <li>Porcelana na tlenku cyrkonu - 1000 zł</li>
+                </ul>
+                <li>Leczenie endodontyczne: </li>
+                    <ul class="subservice-list">
+                        <li>1 kanał - 100zł</li>
+                        <li>2 kanały - 200zł</li>
+                        <li>3 kanały i więcej - 300-350 zł</li>
+                    </ul>
+                <li>Licówki porcelanowe: </li>
+                <ul class="subservice-list">
+                    <li>Wycinane komputerowo - 1000zł</li>
+                    <li>Porcelana skaleniowa ręcznie modelowana i napalana (b. cieńkie , estetyczne - 0,2-0,3 mm)- 1200zł</li>
+                </ul>
+            </ul>
+          </div>

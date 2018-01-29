@@ -15,7 +15,11 @@ h6 {
   font-size: 1.15rem;
   font-weight: 300;
   padding-bottom: 5px;
-  padding-left: 130px
+  padding-left: 80px
+}
+.about
+{
+  position: relative;
 }
 .service-list li
 {
@@ -246,8 +250,21 @@ header.masthead {
     .portfolio {
       margin-bottom: -30px; }
       .portfolio .portfolio-item {
-        margin-bottom: 30px; } }
-
+        margin-bottom: 30px; } 
+      }
+  @media (max-width: 576px) {
+        .working-hours-list{
+          padding-left: 40px;
+        }
+        .service-list{
+          padding-left: 40px;
+        }
+        .portrait{
+          display: block;
+          margin: auto;
+          margin-top: 20px;
+        }
+          }
 .portfolio-modal .portfolio-modal-dialog {
   padding: 3rem 1rem;
   min-height: calc(100vh - 2rem);
